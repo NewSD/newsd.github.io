@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NewSD的博客</title><link>https://newsd.github.io</link><description>NewSD的个人博客，是一个分享好玩软件的科技博主。</description><copyright>NewSD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/24608412?v=4&amp;size=64</url><title>avatar</title><link>https://newsd.github.io</link></image><lastBuildDate>Fri, 05 Jul 2024 15:15:38 +0000</lastBuildDate><managingEditor>NewSD的博客</managingEditor><ttl>60</ttl><webMaster>NewSD的博客</webMaster><item><title>50个Java项目实战下载链接</title><link>https://newsd.github.io/post/50-ge-Java-xiang-mu-shi-zhan-xia-zai-lian-jie.html</link><description>50个Java项目实战下载链接：
+50个Java项目实战下载链接：
 
 1、SpringMVC Mybatis教学管理系统实战课 Mybatis数据库设计课程 Bootstrap Jquerymobile框架实战 链接:https://pan.baidu.com/s/1XD_hrceuxwylVqWI6gFhrg 密码:rce6 
 
@@ -145,7 +144,3 @@
 
  49、java Netty实战课程 java高性能分布式RPC教程课程 链接:https://pan.baidu.com/s/1cZZv25ikmAVF1GW0qeqtBA 密码:g216
 
-。</description><guid isPermaLink="true">https://newsd.github.io/post/50-ge-Java-xiang-mu-shi-zhan-xia-zai-lian-jie.html</guid><pubDate>Fri, 05 Jul 2024 15:15:11 +0000</pubDate></item><item><title>这是一条好运的博客</title><link>https://newsd.github.io/post/zhe-shi-yi-tiao-hao-yun-de-bo-ke.html</link><description>这是一条好运的博客。</description><guid isPermaLink="true">https://newsd.github.io/post/zhe-shi-yi-tiao-hao-yun-de-bo-ke.html</guid><pubDate>Fri, 05 Jul 2024 14:54:21 +0000</pubDate></item><item><title>你好，仓颉</title><link>https://newsd.github.io/post/ni-hao-%EF%BC%8C-cang-jie.html</link><description>//hello.cj&#13;
-main(){&#13;
-println('你好，仓颉')&#13;
-}。</description><guid isPermaLink="true">https://newsd.github.io/post/ni-hao-%EF%BC%8C-cang-jie.html</guid><pubDate>Fri, 05 Jul 2024 13:48:43 +0000</pubDate></item><item><title>我的第一个个人博客</title><link>https://newsd.github.io/post/wo-de-di-yi-ge-ge-ren-bo-ke.html</link><description>hello world。</description><guid isPermaLink="true">https://newsd.github.io/post/wo-de-di-yi-ge-ge-ren-bo-ke.html</guid><pubDate>Fri, 05 Jul 2024 12:52:23 +0000</pubDate></item></channel></rss>
