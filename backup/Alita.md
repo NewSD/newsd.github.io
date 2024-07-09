@@ -1,0 +1,1 @@
+I do not stand by in the present of evil！
