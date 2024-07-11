@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NewSD的博客</title><link>https://newsd.github.io</link><description>NewSD的个人博客，是一个分享好玩软件的科技博主。</description><copyright>NewSD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/24608412?v=4&amp;size=64</url><title>avatar</title><link>https://newsd.github.io</link></image><lastBuildDate>Wed, 10 Jul 2024 13:04:47 +0000</lastBuildDate><managingEditor>NewSD的博客</managingEditor><ttl>60</ttl><webMaster>NewSD的博客</webMaster><item><title>main.go</title><link>https://newsd.github.io/post/main.go.html</link><description>package main
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NewSD的博客</title><link>https://newsd.github.io</link><description>NewSD的个人博客，是一个分享好玩软件的科技博主。</description><copyright>NewSD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/24608412?v=4&amp;size=64</url><title>avatar</title><link>https://newsd.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 03:28:26 +0000</lastBuildDate><managingEditor>NewSD的博客</managingEditor><ttl>60</ttl><webMaster>NewSD的博客</webMaster><item><title>打印时间间隔的go程序</title><link>https://newsd.github.io/post/da-yin-shi-jian-jian-ge-de-go-cheng-xu.html</link><description>```go&#13;
+&#13;
+&#13;
+package main&#13;
+&#13;
+import (&#13;
+	'fmt'&#13;
+	'time'&#13;
+)&#13;
+&#13;
+// 定义一个表示时间间隔的结构体&#13;
+type Duration struct {&#13;
+	time.Duration&#13;
+}&#13;
+&#13;
+// 实现一个将时间间隔格式化为字符串的方法&#13;
+// String 方法将 Duration 类型的值转换为字符串格式，精确到秒的小数点后两位。</description><guid isPermaLink="true">https://newsd.github.io/post/da-yin-shi-jian-jian-ge-de-go-cheng-xu.html</guid><pubDate>Thu, 11 Jul 2024 03:27:59 +0000</pubDate></item><item><title>main.go</title><link>https://newsd.github.io/post/main.go.html</link><description>package main
 import 'fmt'
 func main() {
     fmt.Println('Hello, World!')
