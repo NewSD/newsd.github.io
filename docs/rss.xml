@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NewSD的博客</title><link>https://newsd.github.io</link><description>NewSD的个人博客，是一个分享好玩软件的科技博主。</description><copyright>NewSD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/24608412?v=4&amp;size=64</url><title>avatar</title><link>https://newsd.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 10:32:48 +0000</lastBuildDate><managingEditor>NewSD的博客</managingEditor><ttl>60</ttl><webMaster>NewSD的博客</webMaster><item><title>go语言的变量赋值和指针*int与取地址值&amp;的应用</title><link>https://newsd.github.io/post/go-yu-yan-de-bian-liang-fu-zhi-he-zhi-zhen--int-yu-qu-di-zhi-zhi-%26-de-ying-yong.html</link><description>```go&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NewSD的博客</title><link>https://newsd.github.io</link><description>NewSD的个人博客，是一个分享好玩软件的科技博主。</description><copyright>NewSD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/24608412?v=4&amp;size=64</url><title>avatar</title><link>https://newsd.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 15:10:24 +0000</lastBuildDate><managingEditor>NewSD的博客</managingEditor><ttl>60</ttl><webMaster>NewSD的博客</webMaster><item><title>各种编程语言的简略代表语句</title><link>https://newsd.github.io/post/ge-zhong-bian-cheng-yu-yan-de-jian-lve-dai-biao-yu-ju.html</link><description>go语言：Less can be more
+Python：Life is short,I use Python！
+
+以下是一些编程语言的代表性语句或格言，它们通常反映了这些语言的设计哲学、社区文化或者特定特点：
+1. **Java**: 'Write once, run anywhere.'（一次编写，到处运行）
+2. **C**: 'C combines the power of assembly language with the ease of use of a high-level language.'（C语言结合了汇编语言的力量和高级语言的使用便捷性）
+3. **C++**: 'C++: Where friends have access to your private members.'（C++：在这里，朋友可以访问你的私有成员）
+4. **JavaScript**: 'Any application that can be written in JavaScript will eventually be written in JavaScript.'（任何可以用JavaScript编写的应用程序最终都会用JavaScript编写）
+5. **PHP**: 'PHP: Hypertext Preprocessor'（PHP：超文本预处理器）
+6. **Ruby**: 'Ruby is a language of careful balance. Its creator, Yukihiro Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.'（Ruby是一种平衡性很强的语言。</description><guid isPermaLink="true">https://newsd.github.io/post/ge-zhong-bian-cheng-yu-yan-de-jian-lve-dai-biao-yu-ju.html</guid><pubDate>Thu, 11 Jul 2024 15:10:01 +0000</pubDate></item><item><title>go语言的变量赋值和指针*int与取地址值&amp;的应用</title><link>https://newsd.github.io/post/go-yu-yan-de-bian-liang-fu-zhi-he-zhi-zhen--int-yu-qu-di-zhi-zhi-%26-de-ying-yong.html</link><description>```go&#13;
 package main&#13;
 &#13;
 import 'fmt'&#13;
