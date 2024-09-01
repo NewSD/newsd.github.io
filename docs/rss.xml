@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NewSD的博客</title><link>https://newsd.github.io</link><description>NewSD的个人博客，是一个分享好玩软件的科技博主。</description><copyright>NewSD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/24608412?v=4&amp;size=64</url><title>avatar</title><link>https://newsd.github.io</link></image><lastBuildDate>Sun, 11 Aug 2024 15:33:37 +0000</lastBuildDate><managingEditor>NewSD的博客</managingEditor><ttl>60</ttl><webMaster>NewSD的博客</webMaster><item><title>小纸条</title><link>https://newsd.github.io/post/xiao-zhi-tiao.html</link><description>致牛海登的一封小纸条.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NewSD的博客</title><link>https://newsd.github.io</link><description>NewSD的个人博客，是一个分享好玩软件的科技博主。</description><copyright>NewSD的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/24608412?v=4&amp;size=64</url><title>avatar</title><link>https://newsd.github.io</link></image><lastBuildDate>Sun, 01 Sep 2024 09:47:59 +0000</lastBuildDate><managingEditor>NewSD的博客</managingEditor><ttl>60</ttl><webMaster>NewSD的博客</webMaster><item><title>.gitconfig配置文件的内容</title><link>https://newsd.github.io/post/.gitconfig-pei-zhi-wen-jian-de-nei-rong.html</link><description>&#13;
+[user]&#13;
+	email = niuhaideng@163.com&#13;
+	name = newsd&#13;
+[alias]&#13;
+	st = status&#13;
+	co = checkout&#13;
+	br = branch&#13;
+	ci = commit&#13;
+	pl = pull&#13;
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %C(bold blue)%s%Creset %Cgreen(%cr) &lt;%an&gt;%Creset' --abbrev-commit --date=relative&#13;
+	last = log -1&#13;
+	ps = push&#13;
+	ad = add&#13;
+	cm = commit -m&#13;
+[credential]&#13;
+	helper = store&#13;
+[core]&#13;
+	quotepath = false。</description><guid isPermaLink="true">https://newsd.github.io/post/.gitconfig-pei-zhi-wen-jian-de-nei-rong.html</guid><pubDate>Sun, 01 Sep 2024 09:47:37 +0000</pubDate></item><item><title>小纸条</title><link>https://newsd.github.io/post/xiao-zhi-tiao.html</link><description>致牛海登的一封小纸条.
 于11年12月14日.
        你：不好！给你说实话，就说实话了，就是不好！学习吧！勉强还可以接受.但是在我心目中有一个阴影，大大的阴影.就是曾己何时，我问你题，你老是让我觉得心不在焉，不过现在好多了.还有说话老是duǐ回我，让我一个小女生不知所措，不好！这样可烦人，所以我老是给你生气有的时候.不过你的表现还可以让女生们勉强接受，因为会主动和别人说话，化解矛盾，这是多为一个男生具有的好习惯其次你不懂得化解组内关系，看见有人闹别扭，你应该先做男生工作，然后再帮忙化解矛盾.(当然大多时候都是我吧，但是我也就是会那一会儿就好了吧！)·没了.以后想起来了再说吧！
 拜拜！I'm not looking forward to hearing from you!
