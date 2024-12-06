@@ -140,23 +140,23 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <span class="pl-k">import</span> <span class="pl-s">"fmt"</span>
 
 <span class="pl-c">// main函数是程序的入口点</span>
-<span class="pl-k">func</span> <span class="pl-en">main</span>() {
+<span class="pl-k">func</span> <span class="pl-s1">main</span>() {
 	<span class="pl-c">// 初始化一个整型变量num并赋值为10</span>
 	<span class="pl-k">var</span> <span class="pl-s1">num</span> <span class="pl-smi">int</span> <span class="pl-c1">=</span> <span class="pl-c1">10</span>
 	<span class="pl-c">// 输出变量num的值</span>
-	<span class="pl-s1">fmt</span>.<span class="pl-en">Println</span>(<span class="pl-s">"num = "</span>, <span class="pl-s1">num</span>)
+	<span class="pl-s1">fmt</span>.<span class="pl-c1">Println</span>(<span class="pl-s">"num = "</span>, <span class="pl-s1">num</span>)
 
 	<span class="pl-c">// 初始化一个指向整型的指针变量p，并将其指向num</span>
 	<span class="pl-k">var</span> <span class="pl-s1">p</span> <span class="pl-c1">*</span><span class="pl-smi">int</span> <span class="pl-c1">=</span> <span class="pl-c1">&amp;</span><span class="pl-s1">num</span>
 	<span class="pl-c">// 输出指针变量p的值</span>
-	<span class="pl-s1">fmt</span>.<span class="pl-en">Println</span>(<span class="pl-s">"p = "</span>, <span class="pl-s1">p</span>)
+	<span class="pl-s1">fmt</span>.<span class="pl-c1">Println</span>(<span class="pl-s">"p = "</span>, <span class="pl-s1">p</span>)
 	<span class="pl-c">// 输出指针p所指向的值</span>
-	<span class="pl-s1">fmt</span>.<span class="pl-en">Println</span>(<span class="pl-s">"*p = "</span>, <span class="pl-c1">*</span><span class="pl-s1">p</span>)
+	<span class="pl-s1">fmt</span>.<span class="pl-c1">Println</span>(<span class="pl-s">"*p = "</span>, <span class="pl-c1">*</span><span class="pl-s1">p</span>)
 
 	<span class="pl-c">// 输出变量num的地址</span>
-	<span class="pl-s1">fmt</span>.<span class="pl-en">Println</span>(<span class="pl-s">"&amp;num = "</span>, <span class="pl-c1">&amp;</span><span class="pl-s1">num</span>)
+	<span class="pl-s1">fmt</span>.<span class="pl-c1">Println</span>(<span class="pl-s">"&amp;num = "</span>, <span class="pl-c1">&amp;</span><span class="pl-s1">num</span>)
 	<span class="pl-c">// 输出指针变量p的地址</span>
-	<span class="pl-s1">fmt</span>.<span class="pl-en">Println</span>(<span class="pl-s">"&amp;p = "</span>, <span class="pl-c1">&amp;</span><span class="pl-s1">p</span>)
+	<span class="pl-s1">fmt</span>.<span class="pl-c1">Println</span>(<span class="pl-s">"&amp;p = "</span>, <span class="pl-c1">&amp;</span><span class="pl-s1">p</span>)
 }
 </pre></div></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>

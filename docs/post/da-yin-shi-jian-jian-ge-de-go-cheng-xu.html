@@ -130,20 +130,20 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <span class="pl-c">// 实现一个将时间间隔格式化为字符串的方法</span>
 <span class="pl-c">// String 方法将 Duration 类型的值转换为字符串格式，精确到秒的小数点后两位。</span>
 <span class="pl-c">// 这个方法使得 Duration 类型的值可以以更加直观的方式进行显示。</span>
-<span class="pl-k">func</span> (<span class="pl-s1">d</span> <span class="pl-smi">Duration</span>) <span class="pl-en">String</span>() <span class="pl-smi">string</span> {
+<span class="pl-k">func</span> (<span class="pl-s1">d</span> <span class="pl-smi">Duration</span>) <span class="pl-c1">String</span>() <span class="pl-smi">string</span> {
 	<span class="pl-c">// 使用 fmt.Sprintf 将 Duration 的秒数转换为字符串格式，保留两位小数。</span>
-	<span class="pl-k">return</span> <span class="pl-s1">fmt</span>.<span class="pl-en">Sprintf</span>(<span class="pl-s">"%.2f seconds"</span>, <span class="pl-s1">d</span>.<span class="pl-en">Seconds</span>())
+	<span class="pl-k">return</span> <span class="pl-s1">fmt</span>.<span class="pl-c1">Sprintf</span>(<span class="pl-s">"%.2f seconds"</span>, <span class="pl-s1">d</span>.<span class="pl-c1">Seconds</span>())
 }
 
 <span class="pl-c">// main函数是程序的入口点</span>
-<span class="pl-k">func</span> <span class="pl-en">main</span>() {
+<span class="pl-k">func</span> <span class="pl-s1">main</span>() {
 	<span class="pl-c">// 初始化一个Duration结构体实例，表示2秒333毫秒的时间间隔</span>
 	<span class="pl-c">// 创建一个时间间隔的实例</span>
 	<span class="pl-s1">duration</span> <span class="pl-c1">:=</span> <span class="pl-smi">Duration</span>{<span class="pl-s1">Duration</span>: <span class="pl-c1">2</span><span class="pl-c1">*</span><span class="pl-s1">time</span>.<span class="pl-c1">Second</span> <span class="pl-c1">+</span> <span class="pl-c1">333</span><span class="pl-c1">*</span><span class="pl-s1">time</span>.<span class="pl-c1">Millisecond</span>}
 
 	<span class="pl-c">// 输出duration的值</span>
 	<span class="pl-c">// 打印格式化后的时间间隔</span>
-	<span class="pl-s1">fmt</span>.<span class="pl-en">Println</span>(<span class="pl-s1">duration</span>)
+	<span class="pl-s1">fmt</span>.<span class="pl-c1">Println</span>(<span class="pl-s1">duration</span>)
 }
 </pre></div></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
